@@ -5,7 +5,7 @@ A system developer at [Jomo Kenyatta University of Agriculture and Technology](h
   <img src="https://github-readme-stats.vercel.app/api?username=RisoriTofa&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RisoriTofa&hide=HTML&count_private=true&theme=tokyonight">
 </p>
- participate in open source by building software products that impacts developers and users.
+I participate in open source by building software products that impacts developers and users.
 Open source is where my mind goes open and learning tech basically my full-time job. 
 <br>
 
