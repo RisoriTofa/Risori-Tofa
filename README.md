@@ -8,3 +8,6 @@ A system developer at [Jomo Kenyatta University of Agriculture and Technology](h
  participate in open source by building software products that impacts developers and users.
 Open source is where my mind goes open and learning tech basically my full-time job. 
 <br>
+
+
+⭐ From [RisoriTofa](https://github.com/RisoriTofa) | | Chris Mutua.
