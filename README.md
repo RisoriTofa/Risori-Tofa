@@ -35,6 +35,7 @@ Open source is where my mind goes open and learning tech basically my full-time 
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@risoritofa&compact=True"/>
 </a>
+[![RisoriTofa's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=risoritofa)](https://github.com/anuraghazra/github-readme-stats)
 
 ⭐ From [RisoriTofa](https://github.com/RisoriTofa) | | Chris Mutua.
 # HAPPY CODING :kenya:
