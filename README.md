@@ -32,7 +32,7 @@ Open source is where my mind goes open and learning tech basically my full-time 
 -->
 
 ## Stuff I worked on last week⌚
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/risoritofa/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@risoritofa&compact=True"/>
 </a>
 
