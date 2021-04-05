@@ -33,10 +33,10 @@ Open source is where my mind goes open and learning tech basically my full-time 
 
 ## Stuff I worked on last week⌚
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=paulodhiambo&count_private=true&show_icons=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=risoritofa&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulodhiambo" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=risoritofa" />
 </a>
 
 ⭐ From [RisoriTofa](https://github.com/RisoriTofa) | | Chris Mutua.
