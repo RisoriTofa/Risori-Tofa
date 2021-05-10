@@ -1,7 +1,13 @@
 ## Hello dev
 I am Risori Tofa :bowtie:
+![Readme image](template-img.png)
 
-Real Name is Chris Mutua! **:relaxed:**
+> Real Name is **_Chris Mutua_**! **:relaxed:**
+
+|Profile pic|
+|---|
+|<img src="Tofa.jpg" alt="drawing" width="200"/>|
+
 
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=risoritofa&color=00cf00)
 
